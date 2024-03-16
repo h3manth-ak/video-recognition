@@ -1,0 +1,4 @@
+object detection part --- color
+event detection 
+prompt analysis
+hadoop
